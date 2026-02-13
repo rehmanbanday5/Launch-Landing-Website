@@ -30,4 +30,4 @@ Google Fonts & Icons: For professional typography and icons.
 
 🚀 Live Demo
 
-You can view the live version of the Launch Landing website here:
+You can view the live version of the Launch Landing website here: https://launch-landing-website.vercel.app/
